@@ -1,7 +1,14 @@
-title: Node.js Project
+title: Projet Java Script
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+  
+- title: Pourquoi
+  statement: markdowns/pourquoi.md
+    
+- title: page3
+  statement: markdowns/page3.md
+  
 projects:
   nodejs:
     root: /nodejs-project
